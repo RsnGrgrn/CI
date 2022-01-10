@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/555nrqbywxa6cmla?svg=true)](https://ci.appveyor.com/project/RsnGrgrn/ci)
+# Задача №1 - Настройка CI [![Build status](https://ci.appveyor.com/api/projects/status/555nrqbywxa6cmla?svg=true)](https://ci.appveyor.com/project/RsnGrgrn/ci)
